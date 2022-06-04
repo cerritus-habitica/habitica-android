@@ -70,7 +70,9 @@
             android:layout_marginTop="20sp"
             android:autoLink="web"
             android:text="\@habitica"
-            android:textSize="@dimen/card_medium_text" />
+            android:textSize="@dimen/card_medium_text"
+            android:visibility="gone"
+            tools:visibility="gone" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -116,25 +118,29 @@
 
         <Button
             android:id="@+id/googlePlayStoreButton"
+            style="@style/HabiticaButton.Gray"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="35sp"
-            style="@style/HabiticaButton.Gray"
             android:text="@string/about_rate_our_app"
             android:textAllCaps="false"
-            android:textSize="@dimen/card_medium_text" />
+            android:textSize="@dimen/card_medium_text"
+            android:visibility="gone"
+            tools:visibility="gone" />
 
         <Button
             android:id="@+id/reportBug"
+            style="@style/HabiticaButton.Gray"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="8sp"
-            style="@style/HabiticaButton.Gray"
             android:text="@string/about_bugreport"
             android:textAllCaps="false"
-            android:textSize="@dimen/card_medium_text" />
+            android:textSize="@dimen/card_medium_text"
+            android:visibility="gone"
+            tools:visibility="gone" />
 
         <TextView
             android:id="@+id/sourceCodeLink"

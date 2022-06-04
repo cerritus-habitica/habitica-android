@@ -507,20 +507,6 @@ class NavigationDrawerFragment : DialogFragment() {
             )
             items.add(
                 HabiticaDrawerItem(
-                    R.id.gemPurchaseActivity,
-                    SIDEBAR_GEMS,
-                    context.getString(R.string.sidebar_gems),
-                ),
-            )
-            items.add(
-                HabiticaDrawerItem(
-                    R.id.subscriptionPurchaseActivity,
-                    SIDEBAR_SUBSCRIPTION,
-                    context.getString(R.string.sidebar_subscription),
-                ),
-            )
-            items.add(
-                HabiticaDrawerItem(
                     0,
                     SIDEBAR_SOCIAL,
                     context.getString(R.string.sidebar_section_social),
@@ -550,13 +536,6 @@ class NavigationDrawerFragment : DialogFragment() {
                     SIDEBAR_ABOUT_HEADER,
                     context.getString(R.string.sidebar_about),
                     isHeader = true,
-                ),
-            )
-            items.add(
-                HabiticaDrawerItem(
-                    R.id.newsFragment,
-                    SIDEBAR_NEWS,
-                    context.getString(R.string.sidebar_news),
                 ),
             )
             items.add(
