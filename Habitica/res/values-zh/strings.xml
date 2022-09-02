@@ -596,7 +596,7 @@
     <string name="usernamePromptTitle">是时候设置用户名了！</string>
     <string name="usernamePromptBody">现在用户名就是登录名，同时用户名还用于邀请、聊天版上@你，还有私信。</string>
     <string name="usernamePromptWiki">如果您想了解更多关于此变动的信息，<a href="https://habitica.wikia.com/wiki/Player_Names">请参阅Habitica Wiki。</a></string>
-    <string name="usernamePromptDisclaimer">用户名应该符合我们的<a href="https://habitica.com/static/terms">使用条款</a>以及<a href="https://habitica.com/static/community-guidelines">社区准则</a>。如果你从前没有设置登录名，会自动为你生成一个用户名。</string>
+    <string name="usernamePromptDisclaimer">用户名应该符合我们的<a href="https://habitica.cerritus.eu/static/terms">使用条款</a>以及<a href="https://habitica.cerritus.eu/static/community-guidelines">社区准则</a>。如果你从前没有设置登录名，会自动为你生成一个用户名。</string>
     <string name="confirm_username_title">你确定要用这个名字吗？</string>
     <string name="confirm_username_description">用户名一经确认就会显示在邀请，@提到你和私信中。你随时都可以在设置里修改用户名。</string>
     <string name="cancel">取消</string>
@@ -676,7 +676,7 @@
     <string name="purchase">购买</string>
     <string name="preference_push_party_mention">来自队伍的提醒</string>
     <string name="more_out_of_habitica">在Habitica中得到更多物品</string>
-    <string name="gift_gems_disclaimer">Habitica决不会要求你将宝石赠送给其他玩家。向别人讨要宝石是一种 违反社区准则的行为，所有这类情况应该报告给admin@habitica.com。</string>
+    <string name="gift_gems_disclaimer">Habitica决不会要求你将宝石赠送给其他玩家。向别人讨要宝石是一种 违反社区准则的行为，所有这类情况应该报告给admin@habitica.cerritus.eu。</string>
     <string name="gems_gift_description">想赠送闪闪发光的宝石给别人吗？</string>
     <string name="profile_gift_subscription">赠送
 \n订阅</string>
@@ -770,7 +770,7 @@
     <string name="mystery_sets">神秘套装</string>
     <string name="report_message_hint">举报理由</string>
     <string name="report_message_title">举报%s违反：</string>
-    <string name="report_explanation">你**只能**举报违反了【社会准则】（https://habitica.com/static/community-guidelines）和/或者【服务条款】（https://habitica.com/static/terms）的消息。不当的举报会让你违规。</string>
+    <string name="report_explanation">你**只能**举报违反了【社会准则】（https://habitica.cerritus.eu/static/community-guidelines）和/或者【服务条款】（https://habitica.cerritus.eu/static/terms）的消息。不当的举报会让你违规。</string>
     <string name="gems_to_gift">宝石送礼</string>
     <string name="preference_push_joined_guild_mention">来自你加入的公会的提醒</string>
     <string name="preference_push_unjoined_guild_mention">来自未加入的公会的提醒</string>
@@ -868,24 +868,24 @@
     <string name="skill_progress_title">使用技能</string>
     <string name="authentication_error_body">你的用户名或密码不正确。</string>
     <string name="network_error_no_network_body">你没有连接到互联网。</string>
-    <string name="stat_description">所有Habitica角色都有四个会影响Habitica游戏玩法的属性。 
-\n 
-\n**力量**增加“暴击”的几率。暴击时，金币、经验值、和物品掉落的机会都会有所增长。它也能帮助你伤害boss。战士和盗贼从他们的职业装备获得力量。 
-\n 
-\n**体质**值越高，你从每日任务和坏习惯中所受到的伤害会越少。医者和战士从他们的职业装备获得体质。 
-\n 
-\n**智力**能提高你的经验值，解锁职业系统后，决定了你的最大魔法值。法师和医者从他们的职业装备获得智力。 
-\n 
-\n**感知**值增加你每次获得的金币量。当你解锁市场后，物品掉落的几率也会增加。法师和盗贼从他们的职业装备获得感知。 
-\n 
+    <string name="stat_description">所有Habitica角色都有四个会影响Habitica游戏玩法的属性。
+\n
+\n**力量**增加“暴击”的几率。暴击时，金币、经验值、和物品掉落的机会都会有所增长。它也能帮助你伤害boss。战士和盗贼从他们的职业装备获得力量。
+\n
+\n**体质**值越高，你从每日任务和坏习惯中所受到的伤害会越少。医者和战士从他们的职业装备获得体质。
+\n
+\n**智力**能提高你的经验值，解锁职业系统后，决定了你的最大魔法值。法师和医者从他们的职业装备获得智力。
+\n
+\n**感知**值增加你每次获得的金币量。当你解锁市场后，物品掉落的几率也会增加。法师和盗贼从他们的职业装备获得感知。
+\n
 \n你达到10级后，等级赚取1点属性。你还可以用具有不同属性提升组合的装备。</string>
     <string name="mana_description">魔法值在10级的班级系统中被解锁。一旦你在11级，你开始学习它们，便可以**使用技能**。
 \n
 \n每天重置时，某些**魔法值会恢复**，但是你可以通过完成任务或使用法师的技能来恢复更多。</string>
-    <string name="gems_description">宝石是使用真钱购买的货币，可以让你在Habitica中购买更多内容，并且是Habitica团队与订阅一起获得财务支持的主要来源之一。 
-\n 
-\n所有通过宝石购买的内容只改变外貌，或者可以随时间免费获得的。 
-\n 
+    <string name="gems_description">宝石是使用真钱购买的货币，可以让你在Habitica中购买更多内容，并且是Habitica团队与订阅一起获得财务支持的主要来源之一。
+\n
+\n所有通过宝石购买的内容只改变外貌，或者可以随时间免费获得的。
+\n
 \n你还可以通过收到其他玩家赠送的礼物、赢得挑战奖励、对Habitica做出贡献或订阅来获得宝石。</string>
     <string name="gold_description">金币是Habitica中的**主要货币**，可以让您购买某些装备、副本、物品，甚至是自定义奖励。
 \n
@@ -905,8 +905,8 @@
 \n难度较高的任务或红色任务将为您提供**更多的经验**。**智力属性**也可以提高你的经验获取率。</string>
     <string name="experience_points">经验值</string>
     <string name="manual_sync_restart_description">有时，应用不会自动更新内容。尝试拉动刷新或强制关闭该应用程序并重新打开它。</string>
-    <string name="hourglasses_description">神秘沙漏是一种极为罕见的货币。你只能在连续三个月或更长时间内订阅Habitica才能获得它。它们在时空旅行者的商店中用于购买过去的装备、宠物、坐骑、动画背景，甚至是特殊副本。 
-\n 
+    <string name="hourglasses_description">神秘沙漏是一种极为罕见的货币。你只能在连续三个月或更长时间内订阅Habitica才能获得它。它们在时空旅行者的商店中用于购买过去的装备、宠物、坐骑、动画背景，甚至是特殊副本。
+\n
 \n一年最多可以收到四个神秘沙漏。获得奖励的时间取决于你的订阅续订时间表。它们会在你的最后一次订阅付款（使你有资格获得沙漏）之后的新月的第一天发送。有关更多详细信息，请参见[订阅]页面。</string>
     <string name="clear_cache_description">要清除缓存，请打开手机的“设置”应用。去Storage &gt; Apps &gt; Habitica，然后点击清除缓存。</string>
     <string name="clear_cache">清除缓存</string>
@@ -1054,7 +1054,7 @@
     <string name="fortify_shop">稳固药剂</string>
     <string name="invitation_title_no_leader">你被邀请加入一个队伍</string>
     <string name="you">你</string>
-    <string name="login_disclaimer">点击注册，即表示你已经阅读并同意<a href="https://habitica.com/static/terms">《使用条款》</a>和<a href="https://habitica.com/static/privacy">《隐私策略》。</a></string>
+    <string name="login_disclaimer">点击注册，即表示你已经阅读并同意<a href="https://habitica.cerritus.eu/static/terms">《使用条款》</a>和<a href="https://habitica.cerritus.eu/static/privacy">《隐私策略》。</a></string>
     <string name="finish">结束</string>
     <string name="user_is_blocked_explanation">被屏蔽的玩家无法向你发送私信，但你仍能看到他们的帖子</string>
     <string name="user_is_blocked">你已屏蔽该用户</string>
@@ -1355,12 +1355,12 @@
     </plurals>
     <string name="change_class_message">这将移除您当前的职业并退还所有属性点数，然后你可以选择一个新职业</string>
     <string name="reset_account_description_no_pw">你将会失去所有的等级、金币和经验。你设置的所有任务及其任务历史数据将会被删除（挑战任务除外）。你将失去除了订阅者物品和免费纪念物品外的所有装备，但你之后可以重新购买被删除的物品。重新购买职业专属装备需要对应的职业。你当前的职业、成就、宠物和坐骑将会保留。如果你已确定要重置数据，请在下方输入“RESET”。</string>
-    <string name="report_message_explanation">您只能举报违反[社区准则](https://habitica.com/static/community-guidelines)和/或[服务条款](https://habitica.com/static/terms)的帖子。提交虚假报告违反了 Habitica 社区准则。</string>
+    <string name="report_message_explanation">您只能举报违反[社区准则](https://habitica.cerritus.eu/static/community-guidelines)和/或[服务条款](https://habitica.cerritus.eu/static/terms)的帖子。提交虚假报告违反了 Habitica 社区准则。</string>
     <string name="g1g1_promo_info_limitations_fixed">这是一个限时活动，从 %1$s (%2$s) 开始，到 %3$s (%4$s) 结束。此促销活动仅适用于您向另一位Habitican赠送礼物。如果您或您的收礼人已经订阅，则赠送的订阅将增加订阅月份，只有在当前订阅被取消或过期后才能使用。</string>
     <string name="todo_summary_description">这是一项没有截止日期的 **%1$s** 任务。</string>
     <string name="shadow_mute_user">禁言</string>
     <string name="plenty_of_potions_description">我们返场了 10 种最受社区欢迎的魔法孵化药水。前往 \"市场 \"来完善你的收藏吧！</string>
-    <string name="report_user_explanation">您只能举报违反[社区准则](https://habitica.com/static/community-guidelines)和/或[服务条款](https://habitica.com/static/terms)的玩家。提交虚假报告是违反 Habitica 社区准则的行为。</string>
+    <string name="report_user_explanation">您只能举报违反[社区准则](https://habitica.cerritus.eu/static/community-guidelines)和/或[服务条款](https://habitica.cerritus.eu/static/terms)的玩家。提交虚假报告是违反 Habitica 社区准则的行为。</string>
     <string name="message_flagged">信息已被举报 %d 次。</string>
     <string name="birthday_limitations">这是一个限时活动，从 %1$s 开始，到 %2$s 结束。在此期间可以购买限定版欢腾的狮鹫蛇和十种魔法孵化药水。“四件免费礼品”部分中列出的其他礼品将自动发送到礼品发送日前 30 天内活跃的所有帐户。礼品发送后创建的账户将无法领取礼品。</string>
     <string name="ban_user_confirm">你想要封禁此玩家吗？</string>

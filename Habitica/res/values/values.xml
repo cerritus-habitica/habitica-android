@@ -216,7 +216,7 @@
     </string-array>
 
     <string-array name="server_urls">
-        <item>https://habitica.com</item>
+        <item>https://habitica.cerritus.eu</item>
         <item>https://staging.habitica.com</item>
         <item>https://bat.habitica.com</item>
         <item>https://frog.habitica.com</item>

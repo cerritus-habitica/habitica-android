@@ -46,7 +46,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="https"
-                    android:host="habitica.com"
+                    android:host="habitica.cerritus.eu"
                     android:pathPattern="/"/>
             </intent-filter>
 
@@ -63,7 +63,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="https"
-                    android:host="habitica.com"
+                    android:host="habitica.cerritus.eu"
                     android:pathPattern="/settings/.*"/>
             </intent-filter>
         </activity>
@@ -204,7 +204,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="https"
-                    android:host="habitica.com"
+                    android:host="habitica.cerritus.eu"
                     android:pathPattern="/profile/.*"/>
             </intent-filter>
         </activity>

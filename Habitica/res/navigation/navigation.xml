@@ -31,9 +31,9 @@
             app:argType="string"
             app:nullable="true"
             android:defaultValue=""/>
-        <deepLink app:uri="habitica.com/user/tasks/{taskType}" />
-        <deepLink app:uri="habitica.com/tasks" />
-        <deepLink app:uri="habitica.com" />
+        <deepLink app:uri="habitica.cerritus.eu/user/tasks/{taskType}" />
+        <deepLink app:uri="habitica.cerritus.eu/tasks" />
+        <deepLink app:uri="habitica.cerritus.eu" />
     </fragment>
     <activity
         android:id="@+id/taskFormActivity"
@@ -49,7 +49,7 @@
         android:id="@+id/partyFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.party.PartyFragment"
         android:label="@string/sidebar_party">
-        <deepLink app:uri="habitica.com/party" />
+        <deepLink app:uri="habitica.cerritus.eu/party" />
         <action
             android:id="@+id/openQuestDetail"
             app:destination="@id/questDetailFragment" />
@@ -76,26 +76,26 @@
     <fragment
         android:id="@+id/questDetailFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.QuestDetailFragment">
-        <deepLink app:uri="habitica.com/party/quest" />
+        <deepLink app:uri="habitica.cerritus.eu/party/quest" />
     </fragment>
     <fragment
         android:id="@+id/skillsFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.skills.SkillsFragment"
         android:label="@string/sidebar_skills">
-        <deepLink app:uri="habitica.com/user/skills" />
+        <deepLink app:uri="habitica.cerritus.eu/user/skills" />
     </fragment>
     <fragment
         android:id="@+id/statsFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.StatsFragment"
         android:label="@string/stats">
-        <deepLink app:uri="habitica.com/user/stats" />
+        <deepLink app:uri="habitica.cerritus.eu/user/stats" />
     </fragment>
     <fragment
         android:id="@+id/challengesOverviewFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.challenges.ChallengesOverviewFragment"
         android:label="@string/sidebar_challenges" >
-        <deepLink app:uri="habitica.com/challenges/myChallenges" />
-        <deepLink app:uri="habitica.com/challenges/findChallenges" />
+        <deepLink app:uri="habitica.cerritus.eu/challenges/myChallenges" />
+        <deepLink app:uri="habitica.cerritus.eu/challenges/findChallenges" />
         <action
             android:id="@+id/openChallengeDetail"
             app:destination="@id/challengeDetailFragment" />
@@ -104,7 +104,7 @@
         android:id="@+id/avatarOverviewFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.customization.AvatarOverviewFragment"
         android:label="@string/sidebar_avatar" >
-        <deepLink app:uri="habitica.com/user/avatar" />
+        <deepLink app:uri="habitica.cerritus.eu/user/avatar" />
         <action
             android:id="@+id/openComposeAvatarDetail"
             app:destination="@id/ComposeAvatarCustomizationFragment" />
@@ -158,7 +158,7 @@
         android:id="@+id/itemsFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.items.ItemsFragment"
         android:label="@string/sidebar_items">
-        <deepLink app:uri="habitica.com/inventory/items" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/items" />
         <argument
             android:name="itemType"
             app:argType="string"
@@ -169,7 +169,7 @@
         android:id="@+id/stableFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.stable.StableFragment"
         android:label="@string/sidebar_stable" >
-        <deepLink app:uri="habitica.com/inventory/stable" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/stable" />
         <action
             android:id="@+id/openPetDetail"
             app:destination="@id/petDetailRecyclerFragment" />
@@ -203,7 +203,7 @@
         android:id="@+id/subscriptionPurchaseActivity"
         android:name="com.habitrpg.android.habitica.ui.activities.GemPurchaseActivity"
         android:label="@string/gem_purchase_toolbartitle" >
-        <deepLink app:uri="habitica.com/user/settings/subscription" />
+        <deepLink app:uri="habitica.cerritus.eu/user/settings/subscription" />
         <argument
             android:name="openSubscription"
             app:argType="boolean"
@@ -213,7 +213,7 @@
         android:id="@+id/gemPurchaseActivity"
         android:name="com.habitrpg.android.habitica.ui.activities.GemPurchaseActivity"
         android:label="@string/gem_purchase_toolbartitle">
-        <deepLink app:uri="habitica.com/user/settings/gems" />
+        <deepLink app:uri="habitica.cerritus.eu/user/settings/gems" />
         <argument
             android:name="openSubscription"
             app:argType="boolean"
@@ -249,19 +249,19 @@
         android:id="@+id/birthdayActivity"
         android:name="com.habitrpg.android.habitica.ui.activities.BirthdayActivity"
         android:label="@string/gem_purchase_toolbartitle" >
-        <deepLink app:uri="habitica.com/promo/birthday" />
+        <deepLink app:uri="habitica.cerritus.eu/promo/birthday" />
     </activity>
     <fragment
         android:id="@+id/newsFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.NewsFragment"
         android:label="@string/sidebar_news">
-        <deepLink app:uri="habitica.com/static/new-stuff" />
+        <deepLink app:uri="habitica.cerritus.eu/static/new-stuff" />
     </fragment>
     <fragment
         android:id="@+id/FAQOverviewFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.support.FAQOverviewFragment"
         android:label="@string/habitica_questions">
-        <deepLink app:uri="habitica.com/static/faq" />
+        <deepLink app:uri="habitica.cerritus.eu/static/faq" />
         <action
             android:id="@+id/openFAQDetail"
             app:destination="@id/FAQDetailFragment" />
@@ -287,13 +287,13 @@
         android:id="@+id/aboutFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.AboutFragment"
         android:label="@string/sidebar_about">
-        <deepLink app:uri="habitica.com/static/about" />
+        <deepLink app:uri="habitica.cerritus.eu/static/about" />
     </fragment>
     <fragment
         android:id="@+id/inboxFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.InboxOverviewFragment"
         android:label="@string/sidebar_inbox">
-        <deepLink app:uri="habitica.com/private-messages" />
+        <deepLink app:uri="habitica.cerritus.eu/private-messages" />
         <action
             android:id="@+id/openInboxDetail"
             app:destination="@id/inboxMessageListFragment" />
@@ -302,7 +302,7 @@
         android:id="@+id/guildFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.guilds.GuildFragment"
         android:label="@string/guild" >
-        <deepLink app:uri="habitica.com/groups/guild/{groupID}" />
+        <deepLink app:uri="habitica.cerritus.eu/groups/guild/{groupID}" />
         <argument
             android:name="groupID"
             app:argType="string" />
@@ -342,7 +342,7 @@
         android:name="com.habitrpg.android.habitica.ui.activities.PrefsActivity"
         android:label="@string/app_settings"
         tools:layout="@layout/activity_prefs">
-        <deepLink app:uri="habitica.com/settings" />
+        <deepLink app:uri="habitica.cerritus.eu/settings" />
     </activity>
     <fragment
         android:id="@+id/inboxMessageListFragment"
@@ -360,7 +360,7 @@
         android:id="@+id/notificationsActivity"
         android:name="com.habitrpg.android.habitica.ui.activities.NotificationsActivity"
         android:label="@string/notifications">
-        <deepLink app:uri="habitica.com/user/notifications" />
+        <deepLink app:uri="habitica.cerritus.eu/user/notifications" />
     </activity>
     <fragment
         android:id="@+id/petDetailRecyclerFragment"
@@ -394,7 +394,7 @@
         android:id="@+id/challengeDetailFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.social.challenges.ChallengeDetailFragment"
         android:label="@string/challenge">
-        <deepLink app:uri="habitica.com/challenges/{challengeID}" />
+        <deepLink app:uri="habitica.cerritus.eu/challenges/{challengeID}" />
         <argument
             android:name="challengeID"
             app:argType="string" />
@@ -461,7 +461,7 @@
         android:id="@+id/achievementsFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.AchievementsFragment"
         android:label="@string/sidebar_achievements" >
-        <deepLink app:uri="habitica.com/user/achievements" />
+        <deepLink app:uri="habitica.cerritus.eu/user/achievements" />
         <argument
             android:name="userID"
             app:argType="string"
@@ -471,36 +471,36 @@
         android:id="@+id/marketFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.shops.MarketFragment"
         android:label="@string/market">
-        <deepLink app:uri="habitica.com/inventory/market" />
-        <deepLink app:uri="habitica.com/shops/market" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/market" />
+        <deepLink app:uri="habitica.cerritus.eu/shops/market" />
     </fragment>
     <fragment
         android:id="@+id/questShopFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.shops.QuestShopFragment"
         android:label="@string/questShop">
-        <deepLink app:uri="habitica.com/inventory/quests" />
-        <deepLink app:uri="habitica.com/shops/quests" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/quests" />
+        <deepLink app:uri="habitica.cerritus.eu/shops/quests" />
     </fragment>
     <fragment
         android:id="@+id/seasonalShopFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.shops.SeasonalShopFragment"
         android:label="@string/seasonalShop">
-        <deepLink app:uri="habitica.com/inventory/seasonal" />
-        <deepLink app:uri="habitica.com/shops/seasonal" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/seasonal" />
+        <deepLink app:uri="habitica.cerritus.eu/shops/seasonal" />
     </fragment>
     <fragment
         android:id="@+id/timeTravelersShopFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.shops.TimeTravelersShopFragment"
         android:label="@string/timeTravelers">
-        <deepLink app:uri="habitica.com/inventory/time" />
-        <deepLink app:uri="habitica.com/shops/time" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/time" />
+        <deepLink app:uri="habitica.cerritus.eu/shops/time" />
     </fragment>
     <fragment
         android:id="@+id/customizationsShopFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.inventory.shops.CustomizationsShopFragment"
         android:label="@string/customizations">
-        <deepLink app:uri="habitica.com/inventory/customizations" />
-        <deepLink app:uri="habitica.com/shops/customizations" />
+        <deepLink app:uri="habitica.cerritus.eu/inventory/customizations" />
+        <deepLink app:uri="habitica.cerritus.eu/shops/customizations" />
     </fragment>
     <fragment
         android:id="@+id/supportMainFragment"
@@ -518,13 +518,13 @@
         android:id="@+id/adventureGuideActivity"
         android:name="com.habitrpg.android.habitica.ui.activities.AdventureGuideActivity"
         android:label="">
-        <deepLink app:uri="habitica.com/user/onboarding" />
+        <deepLink app:uri="habitica.cerritus.eu/user/onboarding" />
     </activity>
     <fragment
         android:id="@+id/promoInfoFragment"
         android:name="com.habitrpg.android.habitica.ui.fragments.PromoInfoFragment"
         android:label="">
-        <deepLink app:uri="habitica.com/promo/info" />
+        <deepLink app:uri="habitica.cerritus.eu/promo/info" />
     </fragment>
     <fragment
         android:id="@+id/promoWebFragment"
@@ -533,6 +533,6 @@
         <argument
             android:name="url"
             app:argType="string" />
-        <deepLink app:uri="habitica.com/promo/web?url={url}" />
+        <deepLink app:uri="habitica.cerritus.eu/promo/web?url={url}" />
     </fragment>
 </navigation>

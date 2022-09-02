@@ -25,8 +25,8 @@ class AboutFragment : BaseMainFragment<FragmentAboutBinding>() {
     @Inject
     lateinit var appConfigManager: AppConfigManager
 
-    private val privacyPolicyLink = "https://habitica.com/static/privacy"
-    private val termsLink = "https://habitica.com/static/terms"
+    private val privacyPolicyLink = "https://habitica.cerritus.eu/static/privacy"
+    private val termsLink = "https://habitica.cerritus.eu/static/terms"
     private val androidSourceCodeLink = "https://github.com/HabitRPG/habitrpg-android/"
     private val twitterLink = "https://twitter.com/habitica"
 

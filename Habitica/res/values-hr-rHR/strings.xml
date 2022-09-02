@@ -586,7 +586,7 @@
     <string name="usernamePromptTitle">Vrijeme je za postaviti tvoje korisničko ime!</string>
     <string name="usernamePromptBody">Imena za prijavljivanje su sada jedinstvena korisnička imena koja će biti vidljiva pokraj tvog imena za prikazivanje i koja će biti korištena u pozivnicama, @spomenima u chatu i porukama.</string>
     <string name="usernamePromptWiki">Ako želiš naučiti više o ovoj promjeni, <a href="https://habitica.wikia.com/wiki/Player_Names">posjeti našu wiki stranicu.</a></string>
-    <string name="usernamePromptDisclaimer">Korisnička imena se trebaju pridržavati naših <a href="https://habitica.com/static/terms">Uvjeta pružanja usluga</a> i <a href="https://habitica.com/static/community-guidelines">Smjernica za zajednicu</a>. Ako prethodno nisi postavio/la svoje korisničko ime, ono je automatski generirano.</string>
+    <string name="usernamePromptDisclaimer">Korisnička imena se trebaju pridržavati naših <a href="https://habitica.cerritus.eu/static/terms">Uvjeta pružanja usluga</a> i <a href="https://habitica.cerritus.eu/static/community-guidelines">Smjernica za zajednicu</a>. Ako prethodno nisi postavio/la svoje korisničko ime, ono je automatski generirano.</string>
     <string name="confirm_username_title">Jesi li siguran/na da želiš potvrditi svoje trenutno korisničko ime?</string>
     <string name="confirm_username_description">Potvrđivanje tvog korisničkog imena će ga učiniti javnim za pozivnice, @spomene i poruke. Možeš promijeniti svoje korisničko ime u postavkama bilo kada.</string>
     <string name="cancel">Otkaži</string>

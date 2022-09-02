@@ -588,7 +588,7 @@
     <string name="usernamePromptTitle">Время выбрать себе Имя пользователя!</string>
     <string name="usernamePromptBody">Имена для логина теперь являются уникальными Никами, которые будут отображаться рядом с вашим отображаемым именем и использоваться для приглашений, чата @упоминаний и обмена сообщениями.</string>
     <string name="usernamePromptWiki">Если хотите узнать более подробнее про изменения, то <a href="https://habitica.fandom.com/wiki/Player_Names">посетите вики.</a></string>
-    <string name="usernamePromptDisclaimer">Имя пользователя должно соответствовать нашим <a href="https://habitica.com/static/terms">Условиям обслуживания</a> и <a href="https://habitica.com/static/community-guidelines">Принципам сообщества</a>. Если вы ранее не выбирали имя для логина, то ваше имя было автоматически сгенерировано.</string>
+    <string name="usernamePromptDisclaimer">Имя пользователя должно соответствовать нашим <a href="https://habitica.cerritus.eu/static/terms">Условиям обслуживания</a> и <a href="https://habitica.cerritus.eu/static/community-guidelines">Принципам сообщества</a>. Если вы ранее не выбирали имя для логина, то ваше имя было автоматически сгенерировано.</string>
     <string name="confirm_username_title">Вы уверены, что хотите выбрать такое Имя пользователя?</string>
     <string name="confirm_username_description">Подтверждая свое Имя пользователя, дает возможность принимать приглашения, @упоминания и сообщения. Вы можете сменить свое Имя пользователя в любое время в настройках.</string>
     <string name="cancel">Отменить</string>
@@ -666,7 +666,7 @@
     <string name="copy_username">Скопировать имя пользователя</string>
     <string name="copy_userid">Скопировать ID пользователя</string>
     <string name="purchase">Купить</string>
-    <string name="gift_gems_disclaimer">Habitica никогда не требует от вас дарить самоцветы другим игрокам. Выпрашивание у игроков самоцветов является нарушением правил сообщества, и о всех подобных случаях следует сообщать на admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica никогда не требует от вас дарить самоцветы другим игрокам. Выпрашивание у игроков самоцветов является нарушением правил сообщества, и о всех подобных случаях следует сообщать на admin@habitica.cerritus.eu.</string>
     <string name="profile_gift_subscription">Подарить
 \nподписку</string>
     <string name="profile_gift_gems">Подарить
@@ -957,7 +957,7 @@
     <string name="fortify_shop">Эликсир укрепления</string>
     <string name="invitation_title_no_leader">Вас пригласили в команду</string>
     <string name="you">Вы</string>
-    <string name="login_disclaimer">Регистрируясь, вы подтверждаете, что прочитали и согласны с <a href="https://habitica.com/static/terms">Условиями предоставления услуг</a> and <a href="https://habitica.com/static/privacy">Политикой конфиденциальности.</a></string>
+    <string name="login_disclaimer">Регистрируясь, вы подтверждаете, что прочитали и согласны с <a href="https://habitica.cerritus.eu/static/terms">Условиями предоставления услуг</a> and <a href="https://habitica.cerritus.eu/static/privacy">Политикой конфиденциальности.</a></string>
     <string name="finish">Завершить</string>
     <string name="user_is_blocked_explanation">Заблокированный игрок не может отправлять вам личные сообщение, но вы все еще будете видеть его посты</string>
     <string name="user_is_blocked">Вы заблокировали этого игрока</string>
@@ -1089,7 +1089,7 @@
     <string name="setup_task_habit_2">Кликните, чтобы сделать это плохой привычкой, от которой Вам бы хотелось отказаться</string>
     <string name="leave_guild_challenges_confirmation">Вы хотите продолжить участвовать в испытании, покинув команду\?</string>
     <string name="leave_guild_confirmation">Вы уверены, что хотите покинуть команду\?</string>
-    <string name="report_explanation">Жалуйтесь ** только ** на те публикации, которые нарушают [Принципы сообщества] (https://habitica.com/static/community-guidelines) и / или [Условия предоставления услуг] (https://habitica.com/static/terms ). Ложное сообщение о нарушении может привести к наказанию.</string>
+    <string name="report_explanation">Жалуйтесь ** только ** на те публикации, которые нарушают [Принципы сообщества] (https://habitica.cerritus.eu/static/community-guidelines) и / или [Условия предоставления услуг] (https://habitica.cerritus.eu/static/terms ). Ложное сообщение о нарушении может привести к наказанию.</string>
     <string name="gift_gems_subtitle">Выберите ниже набор самоцветов, который хотите подарить!</string>
     <string name="available_for">Доступно для %s</string>
     <string name="reloaded_content">Содержимое обновлено</string>

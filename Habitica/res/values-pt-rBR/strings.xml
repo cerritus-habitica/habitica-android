@@ -596,7 +596,7 @@
     <string name="usernamePromptTitle">É hora de definir seu nome de usuário!</string>
     <string name="usernamePromptBody">Nomes de login agora são nomes de usuário únicos e estarão visíveis ao lado do seu nome de exibição e serão usados para convites, @menções em bate-papo e mensagens.</string>
     <string name="usernamePromptWiki">Se você quiser saber mais sobre essa mudança, <a href="https://habitica.fandom.com/pt-br/Player_Names">visite nossa wiki.</a></string>
-    <string name="usernamePromptDisclaimer">Nomes de usuários devem estar de acordo com os nossos <a href="https://habitica.com/static/terms">Termos de Serviço</a> e <a href="https://habitica.com/static/community-guidelines">Diretrizes da Comunidade</a>. Se você não definiu um nome de login anteriormente, seu nome de usuário foi gerado automaticamente.</string>
+    <string name="usernamePromptDisclaimer">Nomes de usuários devem estar de acordo com os nossos <a href="https://habitica.cerritus.eu/static/terms">Termos de Serviço</a> e <a href="https://habitica.cerritus.eu/static/community-guidelines">Diretrizes da Comunidade</a>. Se você não definiu um nome de login anteriormente, seu nome de usuário foi gerado automaticamente.</string>
     <string name="confirm_username_title">Você ter certeza que deseja confirmar seu nome de usuário atual?</string>
     <string name="confirm_username_description">Confirmar seu nome de usuário o tornará público para convites, @menções e mensagens. Você pode alterar seu nome de usuário nas configurações a qualquer momento.</string>
     <string name="cancel">Cancelar</string>
@@ -690,7 +690,7 @@
     <string name="purchase">Comprar</string>
     <string name="preference_push_party_mention">\@Menções no Grupo</string>
     <string name="more_out_of_habitica">Aproveite melhor o Habitica</string>
-    <string name="gift_gems_disclaimer">O Habitica nunca exigirá que você dê gemas para outros jogadores. Pedir gemas para outras pessoas é uma violação das Diretrizes da Comunidade e deve ser reportado para: admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">O Habitica nunca exigirá que você dê gemas para outros jogadores. Pedir gemas para outras pessoas é uma violação das Diretrizes da Comunidade e deve ser reportado para: admin@habitica.cerritus.eu.</string>
     <string name="gems_gift_description">Deseja conceder um carregamento brilhante de Gemas a outra pessoa\?</string>
     <string name="profile_gift_subscription">Presentear
 \nAssinatura</string>
@@ -784,7 +784,7 @@
     <string name="mystery_sets">Conjuntos Misteriosos</string>
     <string name="report_message_hint">Motivo para reportar (opcional)</string>
     <string name="report_message_title">Reportar %s por violação:</string>
-    <string name="report_explanation">Reporte uma mensagem **apenas** se esta violar as [Diretrizes da Comunidade](https://habitica.com/static/community-guidelines) e/ou os [Termos de Serviço](https://habitica.com/static/terms). Reportar uma postagem inadequadamente pode lhe dar uma infração.</string>
+    <string name="report_explanation">Reporte uma mensagem **apenas** se esta violar as [Diretrizes da Comunidade](https://habitica.cerritus.eu/static/community-guidelines) e/ou os [Termos de Serviço](https://habitica.cerritus.eu/static/terms). Reportar uma postagem inadequadamente pode lhe dar uma infração.</string>
     <string name="x_class">%s Classe</string>
     <string name="become_x">Tornar-se um(a) %s</string>
     <string name="need_more_help">Precisa de mais ajuda\?</string>
@@ -1079,7 +1079,7 @@
     <string name="fortify_shop">Poção de Fortificação</string>
     <string name="invitation_title_no_leader">Você foi convidado a participar de um Grupo</string>
     <string name="you">Você</string>
-    <string name="login_disclaimer">Ao se inscrever, você está indicando que leu e concorda com os <a href="https://habitica.com/static/terms">Termos de Serviço</a> e com a <a href="https://habitica.com/static/privacy">Política de Privacidade.</a></string>
+    <string name="login_disclaimer">Ao se inscrever, você está indicando que leu e concorda com os <a href="https://habitica.cerritus.eu/static/terms">Termos de Serviço</a> e com a <a href="https://habitica.cerritus.eu/static/privacy">Política de Privacidade.</a></string>
     <string name="finish">Concluir</string>
     <string name="user_is_blocked_explanation">Um usuário bloqueado não pode lhe enviar mensagens privadas, mas você ainda verá seus posts na Taverna ou guildas.</string>
     <string name="user_is_blocked">Você bloqueou este usuário</string>

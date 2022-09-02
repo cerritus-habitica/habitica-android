@@ -735,7 +735,7 @@
     <string name="purchase">Придбати</string>
     <string name="preference_push_party_mention">\@Згадування в команді</string>
     <string name="more_out_of_habitica">Отримайте більше від Habitica</string>
-    <string name="gift_gems_disclaimer">Habitica ніколи не вимагатиме від вас дарування самоцвітів іншим гравцям. Випрошування самоцвітів є порушенням Правил спільноти і про це слід повідомляти на admin@habitica.com.</string>
+    <string name="gift_gems_disclaimer">Habitica ніколи не вимагатиме від вас дарування самоцвітів іншим гравцям. Випрошування самоцвітів є порушенням Правил спільноти і про це слід повідомляти на admin@habitica.cerritus.eu.</string>
     <string name="gems_gift_description">Хочете подарувати блискучі самоцвіти комусь іншому\?</string>
     <string name="leave_guild_confirmation">Хочете зберегти чи видалити випробовування після виходу з команди\?</string>
     <string name="i_agree_to_follow_the_guidelines">Я погоджуюсь дотримуватись правил</string>
@@ -746,7 +746,7 @@
     <string name="mystery_sets">Містичний комплект</string>
     <string name="report_message_hint">Причина (опціонально)</string>
     <string name="report_message_title">Помітити %s, як порушення за:</string>
-    <string name="report_explanation">Будь ласка, повідомляйте **лише** про публікації, які порушують [Правила спільноти](https://habitica.com/static/community-guidelines) і/або [Умови надання послуг](https://habitica.com/static/terms). Неналежне повідомлення про публікацію може призвести до порушення.</string>
+    <string name="report_explanation">Будь ласка, повідомляйте **лише** про публікації, які порушують [Правила спільноти](https://habitica.cerritus.eu/static/community-guidelines) і/або [Умови надання послуг](https://habitica.cerritus.eu/static/terms). Неналежне повідомлення про публікацію може призвести до порушення.</string>
     <string name="x_class">Клас %s</string>
     <string name="become_x">Стати %s</string>
     <string name="need_more_help">Потрібна допомога\?</string>
@@ -917,7 +917,7 @@
     <string name="no_notifications_text">Феї повідомлень вам тихо аплодують! Відмінно!</string>
     <string name="gift_confirmation_text_sub">Ви вислали @%1$s %2$s-місячну підписку на Habitica.</string>
     <string name="gift_gems_subtitle">Виберіть пакет самоцвітів, який ви хочете подарувати!</string>
-    <string name="usernamePromptDisclaimer">Імена користувачів повинні відповідати нашим <a href="https://habitica.com/static/terms"> Умовам обслуговування </a> і <a href="https://habitica.com/static/community-guidelines"> Правилам спільноти </a>. Якщо ви раніше не вибирали ім\'я користувача, це значит, що воно було згенеровано автоматично.</string>
+    <string name="usernamePromptDisclaimer">Імена користувачів повинні відповідати нашим <a href="https://habitica.cerritus.eu/static/terms"> Умовам обслуговування </a> і <a href="https://habitica.cerritus.eu/static/community-guidelines"> Правилам спільноти </a>. Якщо ви раніше не вибирали ім\'я користувача, це значит, що воно було згенеровано автоматично.</string>
     <string name="usernamePromptWiki">Якщо ви хочете дізнатися більше про цю зміну, <a href="https://habitica.wikia.com/wiki/Player_Names">visit our wiki.</a></string>
     <string name="usernamePromptBody">Імена для входу тепер є унікальними іменами користувачів, які відображатимуться поруч із вашим ніком і будуть використовуватися для запрошень, чату @ згадок та обміну повідомленнями.</string>
     <string name="total_checkins">Усього відвідувань</string>
@@ -1067,7 +1067,7 @@
     <string name="user_is_blocked">Ви заблокували цього користувача</string>
     <string name="user_is_blocked_explanation">Заблокований користувач не може надсилати вам особисті повідомлення, але Ви все ще можете бачити його дописи.</string>
     <string name="finish">Закінчити</string>
-    <string name="login_disclaimer">Реєструючись, ви підтверджуєте, що прочитали та згодні з: <a href="https://habitica.com/static/terms">Умовами використання</a> та <a href="https://habitica.com/static/privacy">Політикою конфіденційності</a></string>
+    <string name="login_disclaimer">Реєструючись, ви підтверджуєте, що прочитали та згодні з: <a href="https://habitica.cerritus.eu/static/terms">Умовами використання</a> та <a href="https://habitica.cerritus.eu/static/privacy">Політикою конфіденційності</a></string>
     <string name="you">Ви</string>
     <string name="invitation_title_no_leader">Вас запросили в команду</string>
     <string name="fortify_shop">Зілля зміцнення</string>
